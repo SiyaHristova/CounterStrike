@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="http://lofrev.net/wp-content/photos/2017/01/Counter-Strike-Logo2.png" alt="Image" />
+    <img src="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-global-offensive-full-version-png-logo-3.png" alt="Image" />
 </p>
