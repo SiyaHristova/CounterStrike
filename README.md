@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="https://hyperpix.net/wp-content/uploads/2019/09/counter-strike-logo-font-download-856x484.jpg" alt="Image" />
+    <img src="http://lofrev.net/wp-content/photos/2017/01/Counter-Strike-Logo2.png" alt="Image" />
 </p>
