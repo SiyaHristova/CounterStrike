@@ -2,5 +2,5 @@
 # <p align="center"> CounterStrike Task <p>
 
 <p align="center">
-    <img src="https://hyperpix.net/wp-content/uploads/2019/09/counter-strike-logo-font-download-856x484.jpg" alt="Image" />
+    <img src="https://w7.pngwing.com/pngs/945/615/png-transparent-counter-strike-global-offensive-logo-brand-symbol-symbol-miscellaneous-text-logo.png" alt="Image" />
 </p>
